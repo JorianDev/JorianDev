@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorianDev
 - 👀 I’m interested in expanding programming skills and security
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning GO and C#
 
 <!---
 JorianDev/JorianDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
